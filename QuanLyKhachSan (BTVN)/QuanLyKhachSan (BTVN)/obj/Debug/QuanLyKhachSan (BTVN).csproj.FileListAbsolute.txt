@@ -1,0 +1,10 @@
+C:\Users\LiLi\source\repos\QuanLyKhachSan (BTVN)\QuanLyKhachSan (BTVN)\bin\Debug\QuanLyKhachSan (BTVN).exe.config
+C:\Users\LiLi\source\repos\QuanLyKhachSan (BTVN)\QuanLyKhachSan (BTVN)\bin\Debug\QuanLyKhachSan (BTVN).exe
+C:\Users\LiLi\source\repos\QuanLyKhachSan (BTVN)\QuanLyKhachSan (BTVN)\bin\Debug\QuanLyKhachSan (BTVN).pdb
+C:\Users\LiLi\source\repos\QuanLyKhachSan (BTVN)\QuanLyKhachSan (BTVN)\obj\Debug\QuanLyKhachSan (BTVN).csprojAssemblyReference.cache
+C:\Users\LiLi\source\repos\QuanLyKhachSan (BTVN)\QuanLyKhachSan (BTVN)\obj\Debug\QuanLyKhachSan__BTVN_.QLKS.resources
+C:\Users\LiLi\source\repos\QuanLyKhachSan (BTVN)\QuanLyKhachSan (BTVN)\obj\Debug\QuanLyKhachSan__BTVN_.Properties.Resources.resources
+C:\Users\LiLi\source\repos\QuanLyKhachSan (BTVN)\QuanLyKhachSan (BTVN)\obj\Debug\QuanLyKhachSan (BTVN).csproj.GenerateResource.cache
+C:\Users\LiLi\source\repos\QuanLyKhachSan (BTVN)\QuanLyKhachSan (BTVN)\obj\Debug\QuanLyKhachSan (BTVN).csproj.CoreCompileInputs.cache
+C:\Users\LiLi\source\repos\QuanLyKhachSan (BTVN)\QuanLyKhachSan (BTVN)\obj\Debug\QuanLyKhachSan (BTVN).exe
+C:\Users\LiLi\source\repos\QuanLyKhachSan (BTVN)\QuanLyKhachSan (BTVN)\obj\Debug\QuanLyKhachSan (BTVN).pdb
